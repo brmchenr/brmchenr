@@ -2,7 +2,7 @@
 - 👀 I’m interested in network programability
 - 🌱 I’m currently learning PYTHON, REST and NETCONF
 - 💞️ I’m looking to collaborate on SDN automation
-- 📫 How to reach me ... brmchenr@cisco.com
+- 📫 How to reach me ...
 
 <!---
 brmchenr/brmchenr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

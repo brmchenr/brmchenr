@@ -98,7 +98,7 @@ print(spam(12))
 print(spam(0))
 print(spam(1))'''
 
-import time, sys
+'''import time, sys
 indent = 0 # How many spaces to indent
 indentIncreasing = True # Whether the indentation is increasing or not
 
@@ -121,7 +121,13 @@ try:
                 # Change direction:
                 indentIncreasing = True
 except KeyboardInterrupt:
-    sys.exit()
+    sys.exit()'''
 
+spam = {'color': 'red', 'age': '42'}
+print(spam.keys())
+print(list(spam.keys()))
+print(list(spam.values()))
+print(spam.items())
+print(list(spam.items()))
 
 
